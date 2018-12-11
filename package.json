@@ -1,0 +1,28 @@
+{
+    "title": "Wizards of the Gracht",
+    "name": "wotg",
+    "version": "4.1.1",
+    "description": "wotg site",
+    "keywords": [
+        "wizards",
+        "it",
+        "apps",
+        "full stack",
+        "developer",
+        "freelance"
+    ],
+    "license": "MIT",
+    "author": "sam",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/samvruggink/wotg-basic-website"
+    },
+    "dependencies": {
+        "bootstrap": "4.1.1",
+        "jquery": "3.3.1"
+    },
+    "devDependencies": {
+        "browser-sync": "2.24.5",
+        "gulp": "^3.9.1"
+    }
+}
